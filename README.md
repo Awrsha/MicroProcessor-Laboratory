@@ -1,35 +1,9 @@
 <div dir="rtl">
 
-# نام پروژه
+<h1 align="center"> <br><a href="https://github.com/Awrsha/"><img src="https://s2.uupload.ir/files/picsart_23-03-22_21-53-01-541_no85.png" alt="HSL" width="200"></a> <br> Qazvin Islamic Azad University <br></h1><b><h4 align="center">.:: آزمایشگاه ریزپردازنده و میکروپروسسور ::.</h4></b><p align="center"><a href="https://github.com/Awrsha/"><img src="https://img.shields.io/badge/Version-1.2.1-brightgreen" alt="HSL" width="100"></a><a href="https://github.com/Awrsha/"><img src="https://img.shields.io/badge/Platform-windows-blue" alt="HSL" width="130"></a><a href="https://github.com/Awrsha/"><img src="https://img.shields.io/badge/LICENSE-MIT-yellow" alt="HSL" width="110"></a><a href="https://github.com/Awrsha/"><img src="https://img.shields.io/badge/Developers-1-lightgrey" alt="" width="100"></a></p>
 
-توضیح کوتاهی از پروژه و هدف اصلی آن را اینجا بنویسید.
+# سوالات هر فایل :
 
-## نصب و راه‌اندازی
-
-برای استفاده از این پروژه، مراحل نصب و راه‌اندازی زیر را دنبال کنید:
-
-1. ابتدا فایل‌های پروژه را دانلود یا کلون کنید.
-2. وارد دایرکتوری پروژه شوید.
-3. دستورات زیر را اجرا کنید:
-
-    ```bash
-    دستورات نصب و راه‌اندازی
-    ```
-
-## استفاده
-
-مراحل استفاده از پروژه یا نحوه استفاده از کدها و منابع موجود را در اینجا بنویسید.
-
-## مشارکت
-
-در صورت تمایل به مشارکت در پروژه، مراحل مشارکت و راهنمایی‌های لازم را اینجا قرار دهید.
-
-## مجوز
-
-اینجا نوع مجوزی که برای پروژه انتخاب شده است و اطلاعات مربوط به آن قرار دهید.
-
-## ارتباط
-
-در صورت نیاز به ارتباط با نویسنده یا تیم پشتیبانی، اطلاعات تماس را در اینجا قرار دهید.
+</p>
 
 </div>
